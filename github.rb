@@ -3,9 +3,11 @@ commit = false
 changes = false
 
 puts "There are #{changes == true ? "" : "no"} changes".
+sadfadfsf
 
 # Make a change here.
-changes = false
+#i am making a comment that dont' commit
+changes = true 
 
 if changes == true
   puts "we need to add and commit our changes"
